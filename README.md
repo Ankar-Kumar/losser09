@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm I'am Ankar Kumar Saha</h1>
+<h1 align="center">Hi 👋, I'm Ankar Kumar Saha</h1>
 <h3 align="center">A begginer Full stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvenSlightArizonaalligatorlizard-max-1mb.gif">
+<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvenSlightArizonaalligatorlizard-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=losser09&label=Profile%20views&color=0e75b6&style=flat" alt="losser09" /> </p>
 
 - 🔭 I’m currently working on **Calculator**
